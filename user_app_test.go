@@ -22,7 +22,7 @@ import (
 	secp256k1 "github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tendermint/tendermint/crypto"
+	"github.com/kava-labs/tendermint/crypto"
 	"strings"
 	"testing"
 )
